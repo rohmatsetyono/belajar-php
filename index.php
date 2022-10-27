@@ -2,13 +2,13 @@
 
 echo "Hello World!<br>";
 
-$nama = "Tio";
-$umur = 21;
+    $nama = "Tio";
+    $umur = 21;
 
 echo "Nama saya <b>$nama</b>, saya berusia $umur tahun.";
 
-$namaAdik = "jhon";
-$umurAdik = 12;
+    $namaAdik = "jhon";
+    $umurAdik = 12;
 
 echo "<br>Nama adik saya <b>$namaAdik</b>, adik saya berusia $umurAdik tahun.";
 
