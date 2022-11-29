@@ -27,7 +27,7 @@
 
         // Jalankan query
         if (mysqli_query($con, $sql)) {
-            echo "Data berhasil ditambahkan";
+            echo "<br>Data berhasil ditambahkan";
         } else {
             echo "Error: " . $sql . "<br>" . mysqli_error($con);
         }
